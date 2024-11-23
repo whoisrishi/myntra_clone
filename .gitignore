@@ -25,3 +25,4 @@ dist-ssr
 
 backend/node_modules
 myntra-clone/node_modules
+backend/package-lock.json
